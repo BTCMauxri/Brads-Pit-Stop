@@ -1,0 +1,9 @@
+# Ignore the virtual environment in this folder
+venv/
+
+# Ignore the environment variables in this folder
+.env
+
+# Ignore python cache files
+__pycache__/
+*.py[cod]
